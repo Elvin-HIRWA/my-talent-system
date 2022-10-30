@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>This is My Talent Project(Fuck you Boss)</h1>
+    <h1>This is My Talent Project</h1>
 </body>
 </html>
